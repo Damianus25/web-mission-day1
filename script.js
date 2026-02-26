@@ -1,3 +1,3 @@
 function sayhallo() {
-    alert("fitur conflict test");
+    alert("fitur conflict test2");
 }
