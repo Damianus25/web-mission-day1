@@ -1,4 +1,4 @@
 function sayhallo() {
-    alert("Aku sedang belajar");
-    console.log("gua harus commit!");
+    alert("belajar branch");
+    console.log("fiture baru branching");
 }
