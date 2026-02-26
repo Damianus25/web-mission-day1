@@ -1,4 +1,3 @@
-function sayhallo(){
-    alert("MAIN + BRANCH");
-}
-//fitur navbar
+function sayHello() {
+    alert("Hero Section Active 🚀");
+  }
