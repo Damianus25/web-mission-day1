@@ -1,4 +1,4 @@
-function sayhallo() {
-    alert("Aku sedang belajar");
-    console.log("gua harus commit!");
+function sayhallo(){
+    alert("MAIN + BRANCH");
 }
+//fitur navbar
