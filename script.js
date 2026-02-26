@@ -1,3 +1,3 @@
-function sayhallo() {
-    alert("versi dari main");
+function sayhallo(){
+    alert("MAIN + BRANCH");
 }
